@@ -1,0 +1,8 @@
+﻿  labalinux.cpp
+C:\Users\Максим\Documents\labalinux\labalinux\labalinux.cpp(12,9): warning C4101: A: неиспользованная локальная переменная
+  proverka.cpp
+  randomnumber.cpp
+C:\Users\Максим\Documents\labalinux\labalinux\randomnumber.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\Максим\Documents\labalinux\labalinux\proverka.cpp(21,1): warning C4715: proverka: значение возвращается не при всех путях выполнения
+  labalinux.vcxproj -> C:\Users\Максим\Documents\labalinux\x64\Debug\labalinux.exe
